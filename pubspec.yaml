@@ -1,7 +1,8 @@
 name: better_print
-description: A new Flutter package project.
+description: A better way to print.
 version: 1.0.0
-homepage:
+# author: Sani Haq (work.sanihaq@gmail.com)
+homepage: https://github.com/sanihaq/better_print
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
