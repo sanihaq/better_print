@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
     setState(() {
       _counter++;
     });
-    betterPrint('Current count is $_counter', 3);
+    betterPrint('Current count is $_counter');
   }
 
   @override

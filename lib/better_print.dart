@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 /// A better way to show print message
 ///
 /// [maxLine] to control number of line to show.
-betterPrint(dynamic message, [maxLine = 0]) {
+betterPrint(dynamic message, [int maxLine = 0]) {
   if (message.runtimeType != String) message = message.toString();
   final stackTrace = StackTrace.current;
   Iterable<String> lines = stackTrace.toString().trimRight().split('\n');
