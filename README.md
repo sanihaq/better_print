@@ -3,7 +3,7 @@
 A better way to print.
 
 
-![](https://github.com/sanihaq/better_print/blob/master/assets/example.gif)
+![](https://github.com/sanihaq/better_print/blob/master/assets/example.png)
 
 ## Getting Started
 
