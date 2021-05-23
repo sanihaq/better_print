@@ -13,7 +13,7 @@ Add `better_print` to your project.
     better_print: ^1.0.0
 ```
 
-run `flutter packages get` and import `themes_manager`
+run `flutter packages get` and import `better_print`
 ```dart
 import 'package:better_print/better_print.dart';
 ```
