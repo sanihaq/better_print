@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:better_print/better_print.dart';
 
@@ -36,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
     setState(() {
       _counter++;
     });
-    betterPrint('Current count is $_counter', 1);
+    betterPrint('Current count is $_counter', 10);
   }
 
   @override
